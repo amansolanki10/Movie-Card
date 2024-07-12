@@ -1,4 +1,4 @@
-# Movie Card Showcase
+# Movie Card 
 
 This project displays a collection of movie cards using HTML, CSS, and Bootstrap.<br> Each card features a movie poster, a brief description, and additional details such as the release year, main actors, and a tagline.<br>
 
